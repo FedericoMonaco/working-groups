@@ -1,7 +1,7 @@
 # working-groups
 Place for people to join into a specific part of the peeragogy project that interests them!
 
-We want to amke it easier for people to find ways to contribute to a specific aspect of the peeragogy project based on their own interests.
+We want to make it easier for people to find ways to contribute to a specific aspect of the peeragogy project based on the work and learning they are already doing.
 
 **categories/groups**
 - Create your own!
