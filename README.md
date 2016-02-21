@@ -7,7 +7,7 @@ We want to amke it easier for people to find ways to contribute to a specific as
 - Create your own!
 - K to 12 Education
 - Higher Education
-  -- Charlie Danoff
+    - Charlie Danoff
 * Non-profits/NGOs
 * Business
 * Publishing
