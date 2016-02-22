@@ -19,4 +19,4 @@ We want to make it easier for people to find ways to contribute to a specific as
     - Permaculture/Commons/Co-habitation
     - Technology: Software/Hardware Coding
 - Support Groups (elder, ptsd, oncology, addiction, etc.) 
-         - Karen Einstein
+     -  - Karen Einstein
