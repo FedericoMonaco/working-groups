@@ -18,3 +18,5 @@ We want to make it easier for people to find ways to contribute to a specific as
     - Arts: Literature, Music, Visual Media
     - Permaculture/Commons/Co-habitation
     - Technology: Software/Hardware Coding
+- Social Support Groups
+        - Karen Einstein
