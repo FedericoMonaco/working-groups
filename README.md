@@ -9,6 +9,8 @@ We want to make it easier for people to find ways to contribute to a specific as
     - K to 12 Education
     - Higher Education
         - [Charlie Danoff](http://dalab.cc)
+    -  Educational technology
+    -   - Julia Echeverria
 - Organization
     - Non-profits/NGOs
     - Business
