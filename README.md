@@ -8,12 +8,12 @@ We want to make it easier for people to find ways to contribute to a specific as
 - Learning
     - K to 12 Education
     - Higher Education
-        - [Charlie Danoff] (http://dalab.cc)
+        - [Charlie Danoff](http://dalab.cc)
 - Organization
     - Non-profits/NGOs
     - Business
     - Publishing
-        - Charlotte Pierce
+        - [Charlotte Pierce](http://piercepress.com/)
     - Emergency Response
 - Interaction
     - Arts: Literature, Music, Visual Media
