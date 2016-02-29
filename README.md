@@ -15,7 +15,7 @@ We want to make it easier for people to find ways to contribute to a specific as
     - Non-profits/NGOs
     - Business
     - Publishing
-        - [Charlotte Pierce](http://piercepress.com/)
+        - [Charlotte Pierce](http://piercepress.com/) and [IPNE](http://ipne.org)
     - Emergency Response
           -   John Laing
 - Interaction
