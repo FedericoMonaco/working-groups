@@ -16,9 +16,9 @@ We want to make it easier for people to find ways to contribute to a specific as
         - Charlotte Pierce
 - Interaction
     - Arts: Literature, Music, Visual Media
-     - -  [Fabrizio Terzi](http://free-technology-guild.github.io/Learning-City-Point/#pages/about.html)
+        - [Fabrizio Terzi](http://free-technology-guild.github.io/Learning-City-Point/#pages/about.html)
     - Permaculture/Commons/Co-habitation
-     -  Sheryl Davis
+        -  Sheryl Davis
     - Technology: Software/Hardware Coding
-- Support Groups (elder, ptsd, oncology, addiction, etc.) 
-    - Karen Einstein
+- Support Groups (elder, ptsd, oncology, addiction, etc.)
+       - Karen Einstein
