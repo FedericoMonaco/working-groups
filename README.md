@@ -17,6 +17,7 @@ We want to make it easier for people to find ways to contribute to a specific as
     - Publishing
         - [Charlotte Pierce](http://piercepress.com/)
     - Emergency Response
+          -   John Laing
 - Interaction
     - Arts: Literature, Music, Visual Media
         - [Fabrizio Terzi](http://free-technology-guild.github.io/Learning-City-Point/#pages/about.html)
