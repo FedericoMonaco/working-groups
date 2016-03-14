@@ -12,7 +12,7 @@ We want to make it easier for people to find ways to contribute to a specific as
     -  Educational technology
     -   - Julia Echeverria
 - Motivation & Project Mgt.
---Charlotte Pierce
+    - Charlotte Pierce
 - Organization
     - Non-profits/NGOs
     - Business
