@@ -11,6 +11,8 @@ We want to make it easier for people to find ways to contribute to a specific as
         - [Charlie Danoff](http://dalab.cc)
     -  Educational technology
     -   - Julia Echeverria
+Motivation & Project Mgt.
+- Charlotte Pierce
 - Organization
     - Non-profits/NGOs
     - Business
