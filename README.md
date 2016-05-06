@@ -9,6 +9,7 @@ We want to make it easier for people to find ways to contribute to a specific as
     - K to 12 Education
     - Higher Education
         - [Charlie Danoff](http://dalab.cc)
+        - [Federico Monaco](www.federicomonaco.com)
     -  Educational technology
     -   - Julia Echeverria
 - Motivation & Project Mgt.
@@ -29,3 +30,6 @@ We want to make it easier for people to find ways to contribute to a specific as
 - Support Groups 
     - (elder, ptsd, oncology, addiction, etc.)
        - Karen Einstein
+- Healthcare 
+    - (e-patient, e-health, Open & Big Health Data, Health Mobilization on the Internet)
+        - [Federico Monaco] (http://puntozero.github.io/)
